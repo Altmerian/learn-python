@@ -1,0 +1,5 @@
+breadth = float(input("Enter breadth: "))
+length = float(input("Enter length: "))
+height = float(input("Enter height: "))
+surface_area = 2 * (length * breadth + breadth * height + height * length)
+print("Surface area of cuboid:", surface_area)
