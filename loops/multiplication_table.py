@@ -1,6 +1,5 @@
 n = int(input("Enter a number: "))
-counter = 1
 
-while counter <= 10:
+for counter in range(1, 11):
     print(n, "x", counter, "=", n * counter)
     counter += 1
