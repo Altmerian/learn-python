@@ -4,7 +4,7 @@ from typing import Any
 
 def insertion_sort(elements: list[Any]) -> list[Any]:
     result = []
-    for i in range(1, len(elements)):
+    for i in range(0, len(elements)):
         key = elements[i]
         bisect.insort(result, key)
     return result
