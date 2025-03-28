@@ -8,6 +8,7 @@ This repository contains examples and exercises covering fundamental Python prog
 learn-python/
 ├── classes/           # Object-oriented programming examples
 ├── cond_statements/   # Conditional statements examples
+├── data_types/        # Data structures and algorithms implementations
 ├── date_time/         # Date and time manipulation examples
 ├── dictionaries/      # Dictionary data structure examples
 ├── exceptions/        # Exception handling examples
@@ -58,6 +59,10 @@ learn-python/
   - Inheritance
   - Polymorphism
   - Abstraction
+- Algorithms and Data Structures
+  - Sorting Algorithms (Heap Sort, Insertion Sort)
+  - Queue Implementations
+  - Problem Solving Algorithms
 - Date and Time Operations
 - Concurrent Programming with Threads
 - File Operations
